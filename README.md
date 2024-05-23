@@ -49,4 +49,4 @@ Before you begin, ensure you have MATLAB installed on your machine.
 ## Installation
 Clone this repository to your local machine using:
 ```bash
-git clone https://github.com/mamadkhaleghi/dct-basis-quantization-steganography
+git clone https://github.com/mamadkhaleghi/dct-basis-quantization-steganography.git
